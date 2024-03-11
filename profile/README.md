@@ -1,12 +1,4 @@
-## Hi there 👋
+![5030404_2](https://github.com/VerartTeam/.github/assets/33988129/082830f7-52a8-42a2-9ed6-46b1b1afde55)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Verart
+Verart specializes in crafting unique and captivating Minecraft experiences.
